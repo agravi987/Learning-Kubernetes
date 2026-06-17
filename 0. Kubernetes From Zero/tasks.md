@@ -1,8 +1,8 @@
-# Kubernetes Learning Tasks
+# Kubernetes Learning Tasks 📝
 
 Use this as your practice checklist.
 
-## Beginner Tasks
+## 🌱 Beginner Tasks
 
 - [ ] Read `1. Kubernetes-basics/readme.md`
 - [ ] Explain cluster, node, pod, deployment, and service in your own words
@@ -11,7 +11,7 @@ Use this as your practice checklist.
 - [ ] Run `kubectl get pods`
 - [ ] Run `kubectl get services`
 
-## Command Practice
+## 🛠️ Command Practice
 
 - [ ] Run `kubectl describe pod <pod-name>`
 - [ ] Run `kubectl logs <pod-name>`
@@ -19,7 +19,7 @@ Use this as your practice checklist.
 - [ ] Run `kubectl apply -f deployment.yaml`
 - [ ] Run `kubectl delete pod <pod-name>`
 
-## First App Practice
+## 🚀 First App Practice
 
 - [ ] Create an NGINX deployment
 - [ ] Check the deployment with `kubectl get deployments`
@@ -27,7 +27,7 @@ Use this as your practice checklist.
 - [ ] Expose the deployment with a service
 - [ ] Open the app in the browser
 
-## Rollout Practice
+## 🔄 Rollout Practice
 
 - [ ] Update the image from v1 to v2
 - [ ] Check rollout status
@@ -35,7 +35,7 @@ Use this as your practice checklist.
 - [ ] Roll back to the previous version
 - [ ] Roll back to a specific revision
 
-## Scaling Practice
+## 📈 Scaling Practice
 
 - [ ] Delete one pod and watch it come back
 - [ ] Scale the deployment up
@@ -43,7 +43,7 @@ Use this as your practice checklist.
 - [ ] Enable autoscaling if your cluster supports metrics
 - [ ] Observe how replicas change under load
 
-## YAML Practice
+## 🧾 YAML Practice
 
 - [ ] Create a deployment YAML from scratch
 - [ ] Create a service YAML from scratch
@@ -51,7 +51,7 @@ Use this as your practice checklist.
 - [ ] Change the container image and apply again
 - [ ] Keep your YAML clean and readable
 
-## Pro-Level Check
+## 🏆 Pro-Level Check
 
 - [ ] Can you explain why a pod is not the same as a container?
 - [ ] Can you explain why a service is needed?

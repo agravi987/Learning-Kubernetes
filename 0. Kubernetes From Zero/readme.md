@@ -1,4 +1,4 @@
-# Kubernetes From Zero
+# Kubernetes From Zero 🚀
 
 This folder is your starting point if you want to learn Kubernetes from absolute zero and grow into someone who can use it with confidence.
 
@@ -8,14 +8,14 @@ The idea is simple:
 - understand why each thing exists
 - repeat until the workflow feels natural
 
-## What is inside this folder
+## 📁 What is inside this folder
 
 | File | Purpose |
 | :--- | :--- |
 | `readme.md` | The main learning guide |
 | `tasks.md` | A practical task list to follow step by step |
 
-## How to use this roadmap
+## 🧭 How to use this roadmap
 
 Read and practice in this order:
 
@@ -27,7 +27,7 @@ Read and practice in this order:
 
 If you follow that path, you will move from "I know nothing" to "I can explain and use Kubernetes" without jumping around.
 
-## The big picture
+## 🌍 The big picture
 
 Kubernetes is a system that helps you run containers in a reliable way.
 
@@ -40,9 +40,9 @@ Think of it like this:
 - configmap and secret = store configuration
 - ingress = controls external web access
 
-## Your learning journey
+## 🛣️ Your learning journey
 
-### Stage 1: Basics
+### 1. Basics
 Learn the language of Kubernetes.
 
 You should understand:
@@ -56,7 +56,7 @@ Goal:
 - know what each one does in one simple sentence
 - be able to explain the flow from user request to pod
 
-### Stage 2: Commands
+### 2. Commands
 Learn the commands you will use again and again.
 
 You should be comfortable with:
@@ -71,7 +71,7 @@ Goal:
 - stop feeling nervous when you open the terminal
 - know which command to use for inspection, debugging, and deployment
 
-### Stage 3: First Deployment
+### 3. First Deployment
 Run a simple application like NGINX.
 
 You should learn:
@@ -83,7 +83,7 @@ Goal:
 - get a working app running in Kubernetes
 - understand how traffic reaches the container
 
-### Stage 4: Updates and Safety
+### 4. Updates and Safety
 Learn rollout and rollback.
 
 You should understand:
@@ -95,7 +95,7 @@ Goal:
 - change versions without breaking the app
 - understand version history and recovery
 
-### Stage 5: Self-Healing and Scaling
+### 5. Self-Healing and Scaling
 Learn how Kubernetes keeps apps healthy and adjusts size.
 
 You should understand:
@@ -108,7 +108,7 @@ Goal:
 - see Kubernetes recover automatically
 - know how to grow or shrink apps when needed
 
-## Simple mental model
+## 🧩 Simple mental model
 
 ```text
 User
@@ -126,7 +126,7 @@ Container
 
 If this flow makes sense, Kubernetes becomes much easier.
 
-## What "pro" means here
+## 💼 What "pro" means here
 
 You do not need to memorize everything at once.
 
@@ -138,7 +138,7 @@ Being good at Kubernetes means you can:
 - scale when traffic changes
 - recover when something fails
 
-## Best way to study
+## ✨ Best way to study
 
 Use this pattern:
 
@@ -150,7 +150,7 @@ Use this pattern:
 
 That is how Kubernetes starts to feel natural.
 
-## Mini project idea
+## 🔥 Mini project idea
 
 After the basics, build this small flow:
 
@@ -163,7 +163,7 @@ After the basics, build this small flow:
 
 If you can do this without copying every line, you are already making real progress.
 
-## Final note
+## ✅ Final note
 
 This project is not about fancy words.
 It is about making Kubernetes simple enough that you can actually use it.

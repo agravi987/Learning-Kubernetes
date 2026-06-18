@@ -8,6 +8,7 @@ This project is organized to take you from zero to confident, step by step, with
 
 | Folder | What you learn |
 | :--- | :--- |
+| `0. Installation_of_Kubernetes` | How to install `kubectl`, `minikube`, `kind`, and the local cluster drivers |
 | `0. Kubernetes From Zero` | A friendly starting guide and task checklist |
 | `1. Kubernetes-basics` | Core concepts like cluster, node, pod, deployment, and service |
 | `2. Important Basic command Used` | The essential `kubectl` commands |
@@ -17,12 +18,13 @@ This project is organized to take you from zero to confident, step by step, with
 
 ## 🎯 Recommended Learning Order
 
-1. Start with `0. Kubernetes From Zero`
-2. Read `1. Kubernetes-basics`
-3. Practice `2. Important Basic command Used`
-4. Try `3. Deployment and Running of nginx`
-5. Learn `4. Rollout and Rollback`
-6. Finish with `5. Self Healing and Scaling and Yamls`
+1. Start with `0. Installation_of_Kubernetes`
+2. Read `0. Kubernetes From Zero`
+3. Read `1. Kubernetes-basics`
+4. Practice `2. Important Basic command Used`
+5. Try `3. Deployment and Running of nginx`
+6. Learn `4. Rollout and Rollback`
+7. Finish with `5. Self Healing and Scaling and Yamls`
 
 ## 🧠 How to study
 
